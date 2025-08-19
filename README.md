@@ -11,9 +11,13 @@ A simple C# console application that connects to a TCP-based discount server to 
 
     
 🖥️ Requirements
+
     • .NET 6.0 or later
+    
     • A running TCP server on localhost:5000 that understands the following commands:
+    
         ◦ GEN{json} for generating codes
+        
         ◦ USE{json} for validating codes
         
 ▶️ Usage
