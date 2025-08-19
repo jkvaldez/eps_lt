@@ -1,0 +1,14 @@
+C:\Users\Pitik\source\repos\DiscountClient\DiscountClient\bin\Debug\net8.0\DiscountClient.exe
+C:\Users\Pitik\source\repos\DiscountClient\DiscountClient\bin\Debug\net8.0\DiscountClient.deps.json
+C:\Users\Pitik\source\repos\DiscountClient\DiscountClient\bin\Debug\net8.0\DiscountClient.runtimeconfig.json
+C:\Users\Pitik\source\repos\DiscountClient\DiscountClient\bin\Debug\net8.0\DiscountClient.dll
+C:\Users\Pitik\source\repos\DiscountClient\DiscountClient\bin\Debug\net8.0\DiscountClient.pdb
+C:\Users\Pitik\source\repos\DiscountClient\DiscountClient\obj\Debug\net8.0\DiscountClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pitik\source\repos\DiscountClient\DiscountClient\obj\Debug\net8.0\DiscountClient.AssemblyInfoInputs.cache
+C:\Users\Pitik\source\repos\DiscountClient\DiscountClient\obj\Debug\net8.0\DiscountClient.AssemblyInfo.cs
+C:\Users\Pitik\source\repos\DiscountClient\DiscountClient\obj\Debug\net8.0\DiscountClient.csproj.CoreCompileInputs.cache
+C:\Users\Pitik\source\repos\DiscountClient\DiscountClient\obj\Debug\net8.0\DiscountClient.dll
+C:\Users\Pitik\source\repos\DiscountClient\DiscountClient\obj\Debug\net8.0\refint\DiscountClient.dll
+C:\Users\Pitik\source\repos\DiscountClient\DiscountClient\obj\Debug\net8.0\DiscountClient.pdb
+C:\Users\Pitik\source\repos\DiscountClient\DiscountClient\obj\Debug\net8.0\DiscountClient.genruntimeconfig.cache
+C:\Users\Pitik\source\repos\DiscountClient\DiscountClient\obj\Debug\net8.0\ref\DiscountClient.dll

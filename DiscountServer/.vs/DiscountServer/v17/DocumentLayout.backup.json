@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Pitik\\source\\repos\\DiscountServer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5B89E5FA-EAE8-4130-B220-2F89DDC53671}|DiscountServer\\DiscountServer.csproj|c:\\users\\pitik\\source\\repos\\discountserver\\discountserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B89E5FA-EAE8-4130-B220-2F89DDC53671}|DiscountServer\\DiscountServer.csproj|solutionrelative:discountserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B89E5FA-EAE8-4130-B220-2F89DDC53671}|DiscountServer\\DiscountServer.csproj|c:\\users\\pitik\\source\\repos\\discountserver\\discountserver\\discountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B89E5FA-EAE8-4130-B220-2F89DDC53671}|DiscountServer\\DiscountServer.csproj|solutionrelative:discountserver\\discountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B89E5FA-EAE8-4130-B220-2F89DDC53671}|DiscountServer\\DiscountServer.csproj|c:\\users\\pitik\\source\\repos\\discountserver\\discountserver\\protocol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B89E5FA-EAE8-4130-B220-2F89DDC53671}|DiscountServer\\DiscountServer.csproj|solutionrelative:discountserver\\protocol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B89E5FA-EAE8-4130-B220-2F89DDC53671}|DiscountServer\\DiscountServer.csproj|c:\\users\\pitik\\source\\repos\\discountserver\\discountserver\\discountstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B89E5FA-EAE8-4130-B220-2F89DDC53671}|DiscountServer\\DiscountServer.csproj|solutionrelative:discountserver\\discountstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60E09167-081A-487B-8642-EFCA18F784BB}|DiscountServer.Tests\\DiscountServer.Tests.csproj|c:\\users\\pitik\\source\\repos\\discountserver\\discountserver.tests\\discountservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60E09167-081A-487B-8642-EFCA18F784BB}|DiscountServer.Tests\\DiscountServer.Tests.csproj|solutionrelative:discountserver.tests\\discountservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DiscountServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\Pitik\\source\\repos\\DiscountServer\\DiscountServer.Tests\\DiscountServiceTests.cs",
+              "RelativeDocumentMoniker": "DiscountServer.Tests\\DiscountServiceTests.cs",
+              "ToolTip": "C:\\Users\\Pitik\\source\\repos\\DiscountServer\\DiscountServer.Tests\\DiscountServiceTests.cs",
+              "RelativeToolTip": "DiscountServer.Tests\\DiscountServiceTests.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T11:32:59.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Protocol.cs",
+              "DocumentMoniker": "C:\\Users\\Pitik\\source\\repos\\DiscountServer\\DiscountServer\\Protocol.cs",
+              "RelativeDocumentMoniker": "DiscountServer\\Protocol.cs",
+              "ToolTip": "C:\\Users\\Pitik\\source\\repos\\DiscountServer\\DiscountServer\\Protocol.cs",
+              "RelativeToolTip": "DiscountServer\\Protocol.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T02:01:07.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DiscountStorage.cs",
+              "DocumentMoniker": "C:\\Users\\Pitik\\source\\repos\\DiscountServer\\DiscountServer\\DiscountStorage.cs",
+              "RelativeDocumentMoniker": "DiscountServer\\DiscountStorage.cs",
+              "ToolTip": "C:\\Users\\Pitik\\source\\repos\\DiscountServer\\DiscountServer\\DiscountStorage.cs",
+              "RelativeToolTip": "DiscountServer\\DiscountStorage.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA5wCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T02:00:08.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DiscountService.cs",
+              "DocumentMoniker": "C:\\Users\\Pitik\\source\\repos\\DiscountServer\\DiscountServer\\DiscountService.cs",
+              "RelativeDocumentMoniker": "DiscountServer\\DiscountService.cs",
+              "ToolTip": "C:\\Users\\Pitik\\source\\repos\\DiscountServer\\DiscountServer\\DiscountService.cs",
+              "RelativeToolTip": "DiscountServer\\DiscountService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T01:59:23.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pitik\\source\\repos\\DiscountServer\\DiscountServer\\Program.cs",
+              "RelativeDocumentMoniker": "DiscountServer\\Program.cs",
+              "ToolTip": "C:\\Users\\Pitik\\source\\repos\\DiscountServer\\DiscountServer\\Program.cs",
+              "RelativeToolTip": "DiscountServer\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T01:56:55.82Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

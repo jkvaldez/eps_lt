@@ -1,0 +1,5 @@
+C:\Users\Pitik\source\repos\DiscountServer\DiscountServer.Tests\obj\Debug\net8.0\DiscountServer.Tests.csproj.AssemblyReference.cache
+C:\Users\Pitik\source\repos\DiscountServer\DiscountServer.Tests\obj\Debug\net8.0\DiscountServer.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pitik\source\repos\DiscountServer\DiscountServer.Tests\obj\Debug\net8.0\DiscountServer.Tests.AssemblyInfoInputs.cache
+C:\Users\Pitik\source\repos\DiscountServer\DiscountServer.Tests\obj\Debug\net8.0\DiscountServer.Tests.AssemblyInfo.cs
+C:\Users\Pitik\source\repos\DiscountServer\DiscountServer.Tests\obj\Debug\net8.0\DiscountServer.Tests.csproj.CoreCompileInputs.cache

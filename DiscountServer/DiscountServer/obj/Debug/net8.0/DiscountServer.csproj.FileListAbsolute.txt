@@ -1,0 +1,14 @@
+C:\Users\Pitik\source\repos\DiscountServer\DiscountServer\bin\Debug\net8.0\DiscountServer.exe
+C:\Users\Pitik\source\repos\DiscountServer\DiscountServer\bin\Debug\net8.0\DiscountServer.deps.json
+C:\Users\Pitik\source\repos\DiscountServer\DiscountServer\bin\Debug\net8.0\DiscountServer.runtimeconfig.json
+C:\Users\Pitik\source\repos\DiscountServer\DiscountServer\bin\Debug\net8.0\DiscountServer.dll
+C:\Users\Pitik\source\repos\DiscountServer\DiscountServer\bin\Debug\net8.0\DiscountServer.pdb
+C:\Users\Pitik\source\repos\DiscountServer\DiscountServer\obj\Debug\net8.0\DiscountServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pitik\source\repos\DiscountServer\DiscountServer\obj\Debug\net8.0\DiscountServer.AssemblyInfoInputs.cache
+C:\Users\Pitik\source\repos\DiscountServer\DiscountServer\obj\Debug\net8.0\DiscountServer.AssemblyInfo.cs
+C:\Users\Pitik\source\repos\DiscountServer\DiscountServer\obj\Debug\net8.0\DiscountServer.csproj.CoreCompileInputs.cache
+C:\Users\Pitik\source\repos\DiscountServer\DiscountServer\obj\Debug\net8.0\DiscountServer.dll
+C:\Users\Pitik\source\repos\DiscountServer\DiscountServer\obj\Debug\net8.0\refint\DiscountServer.dll
+C:\Users\Pitik\source\repos\DiscountServer\DiscountServer\obj\Debug\net8.0\DiscountServer.pdb
+C:\Users\Pitik\source\repos\DiscountServer\DiscountServer\obj\Debug\net8.0\DiscountServer.genruntimeconfig.cache
+C:\Users\Pitik\source\repos\DiscountServer\DiscountServer\obj\Debug\net8.0\ref\DiscountServer.dll
