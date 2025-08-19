@@ -26,25 +26,41 @@ Welcome to Discount Mall!
 Please Choose a task Below:
 
 1: Generate Discount Code
+
 2: Use Discount Code
 
+
 Option 1: Generate Discount Code
+
     • Enter a number between 1 and 2000 for how many codes to generate.
+    
     • Enter a number between 7 and 8 for the length of each code.
+    
     • The app sends a GEN request and displays the generated codes.
     
+    
 Option 2: Use Discount Code
+
     • Enter a discount code to validate.
+    
     • The app sends a USE request and displays whether the code is valid or not.
+    
 
     
 🧪 Usage /How to Run
 
 To use the Server:
+
     • Open DiscountServer.sln on Visual Studio 2022 and Run 
+    
     • Follow the Guide on the command Console
     
+    
 To use the client:
+
     • Ensure the DiscountServer is running and listening on localhost:5000
+    
     • Run the DiscountClient by opening DiscountServer.sln on Visual Studion 2022 and follow the prompts
+    
     • Observe the server responses printed in the console
+    
